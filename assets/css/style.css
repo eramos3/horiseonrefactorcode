@@ -65,7 +65,7 @@ p {
     margin-left: 20px;
 }
 /* combined content classes into one and selected by specificity */
-.content div {
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -103,7 +103,7 @@ p {
 }
 
 /* combined benefits classes into one and selected by specificity */
-.benefits div {
+.benefits article {
     margin-bottom: 32px;
     color: #ffffff;
 }
